@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/shiva/Documents/ros2_robotic_arm_repo/install/robotic_arm/lib/python3.10/site-packages",
+        "/home/shiva/Documents/ros2_wrk_spc/install/rover/lib/python3.10/site-packages",
+        "/home/shiva/Documents/ros2_wrk_spc/install/my_robo_controller/lib/python3.10/site-packages",
+        "/home/shiva/Documents/ros2_wrk_spc/install/my_practise_robo/lib/python3.10/site-packages",
+        "/home/shiva/Documents/ros2_wrk_spc/install/mobile_robo/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/shiva/Documents/ros2_robotic_arm_repo/install/robotic_arm/lib/python3.10/site-packages",
+        "/home/shiva/Documents/ros2_wrk_spc/install/rover/lib/python3.10/site-packages",
+        "/home/shiva/Documents/ros2_wrk_spc/install/my_robo_controller/lib/python3.10/site-packages",
+        "/home/shiva/Documents/ros2_wrk_spc/install/my_practise_robo/lib/python3.10/site-packages",
+        "/home/shiva/Documents/ros2_wrk_spc/install/mobile_robo/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
