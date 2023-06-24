@@ -1,0 +1,33 @@
+running egg_info
+creating ../../build/robotic_arm/robotic_arm.egg-info
+writing ../../build/robotic_arm/robotic_arm.egg-info/PKG-INFO
+writing dependency_links to ../../build/robotic_arm/robotic_arm.egg-info/dependency_links.txt
+writing entry points to ../../build/robotic_arm/robotic_arm.egg-info/entry_points.txt
+writing requirements to ../../build/robotic_arm/robotic_arm.egg-info/requires.txt
+writing top-level names to ../../build/robotic_arm/robotic_arm.egg-info/top_level.txt
+writing manifest file '../../build/robotic_arm/robotic_arm.egg-info/SOURCES.txt'
+reading manifest file '../../build/robotic_arm/robotic_arm.egg-info/SOURCES.txt'
+writing manifest file '../../build/robotic_arm/robotic_arm.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/shiva/Documents/ros2_robotic_arm_repo/build/robotic_arm/build
+creating /home/shiva/Documents/ros2_robotic_arm_repo/build/robotic_arm/build/lib
+creating /home/shiva/Documents/ros2_robotic_arm_repo/build/robotic_arm/build/lib/robotic_arm
+copying robotic_arm/__init__.py -> /home/shiva/Documents/ros2_robotic_arm_repo/build/robotic_arm/build/lib/robotic_arm
+running install
+running install_lib
+creating /home/shiva/Documents/ros2_robotic_arm_repo/install/robotic_arm/lib/python3.10/site-packages/robotic_arm
+copying /home/shiva/Documents/ros2_robotic_arm_repo/build/robotic_arm/build/lib/robotic_arm/__init__.py -> /home/shiva/Documents/ros2_robotic_arm_repo/install/robotic_arm/lib/python3.10/site-packages/robotic_arm
+byte-compiling /home/shiva/Documents/ros2_robotic_arm_repo/install/robotic_arm/lib/python3.10/site-packages/robotic_arm/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/shiva/Documents/ros2_robotic_arm_repo/install/robotic_arm/share
+creating /home/shiva/Documents/ros2_robotic_arm_repo/install/robotic_arm/share/ament_index
+creating /home/shiva/Documents/ros2_robotic_arm_repo/install/robotic_arm/share/ament_index/resource_index
+creating /home/shiva/Documents/ros2_robotic_arm_repo/install/robotic_arm/share/ament_index/resource_index/packages
+copying resource/robotic_arm -> /home/shiva/Documents/ros2_robotic_arm_repo/install/robotic_arm/share/ament_index/resource_index/packages
+creating /home/shiva/Documents/ros2_robotic_arm_repo/install/robotic_arm/share/robotic_arm
+copying package.xml -> /home/shiva/Documents/ros2_robotic_arm_repo/install/robotic_arm/share/robotic_arm
+running install_egg_info
+Copying ../../build/robotic_arm/robotic_arm.egg-info to /home/shiva/Documents/ros2_robotic_arm_repo/install/robotic_arm/lib/python3.10/site-packages/robotic_arm-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/shiva/Documents/ros2_robotic_arm_repo/build/robotic_arm/install.log'
